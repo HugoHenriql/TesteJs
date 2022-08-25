@@ -1,2 +1,1 @@
-# TesteJs
-Teste para JS carrinho de compras
+# carrinho-de-compras
